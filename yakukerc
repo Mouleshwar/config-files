@@ -1,0 +1,24 @@
+[$Version]
+update_info=yakuake.upd:2.9.9-startupnotification
+
+[Colors]
+CurrentPalette=Forty Colors
+ShowAlternativeShortcutConfig=false
+
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[GlobalSettings]
+AccessKey=F12
+
+[Options]
+background=false
+focus=true
+location=50
+screen=1
+steps=20
+tabs=true
+
+[Window]
+Height=100
+Width=100
